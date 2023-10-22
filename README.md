@@ -7,7 +7,7 @@
   ##
 
 <div style="width: 100%, align: center, float: left">
-  <img height="180" width= "48%" margin-right= "2%" src="https://github-readme-stats.vercel.app/api?username=DJovito&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180" width= "48%" margin-right= "2%" src="https://github-readme-stats.vercel.app/api?username=DJovito&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=neon"/>
   <img height="180" width= "48%" margin-right= "2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJovito&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=neon"/>
 </div>
 <div style="display: inline_block"><br>

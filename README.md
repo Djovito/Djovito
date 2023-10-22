@@ -1,4 +1,4 @@
-### Olá: eu sou o Djovito👋
+### Olá: eu sou o Danilo jovito👋
 
 - 🔭 Trabalho com front-end
 - 🌱 buscando conhecimentos e desafios
